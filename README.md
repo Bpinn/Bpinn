@@ -1,4 +1,13 @@
 ### Hi there 👋
+
+ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=whatiskeptiname&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)]
+
+</div>
 ![snake gif](https://github.com/Bpinn/Bpinn/blob/main/output/github-contribution-grid-snake.gif)
 
 <!--
